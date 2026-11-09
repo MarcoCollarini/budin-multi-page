@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <!-- Sfondo Tondo Nero -->
+  <circle cx="250" cy="250" r="250" fill="#000000" />
+
+  <!-- Simbolo Logo B (Centrato) -->
+  <g fill="#FFFFFF" transform="translate(0, -25)">
+    <!-- Blocco Superiore -->
+    <polygon points="190,165 285,162 315,213 287,245 195,246" />
+    <!-- Blocco Inferiore -->
+    <polygon points="197,258 290,255 320,308 293,363 207,373" />
+  </g>
+</svg>
