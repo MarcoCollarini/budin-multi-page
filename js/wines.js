@@ -108,7 +108,6 @@
       <div class="wine-card__body">
         <span class="wine-card__category">${escape(wine.category)}</span>
         <h3>${escape(wine.name)}</h3>
-        <p class="wine-card__description">${escape(wine.description)}</p>
         <p class="wine-card__availability">${escape(wine.price)}</p>
         <div class="wine-card__actions">
           <button class="btn btn--ghost" type="button" data-wine-id="${escape(wine.id)}">Dettagli</button>
